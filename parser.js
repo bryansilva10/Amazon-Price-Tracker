@@ -51,8 +51,6 @@ async function checkPrice() {
 		//throw error
 		throw err;
 	}
-
-
 }
 
 //function to send email with price update
